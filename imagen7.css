@@ -1,0 +1,13 @@
+.contenido {
+    display: flex;
+    padding: 15px;
+}
+.imagen {
+    width: 650px;
+    height:450px;
+    float: left;
+    margin: 12px;
+    border-radius: 25px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    border: 2px solid gray;
+}
